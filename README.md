@@ -8,5 +8,4 @@ This is a selected collection of Projects and Assignments completed in the ADS p
 <li> <a href="https://github.com/yoditayalew/ADS-Portfolio-Milestone/tree/main/Projects/SCM%20651">Housing Price Analysis</a> </li>
 <li> <a href="https://github.com/yoditayalew/ADS-Portfolio-Milestone/tree/main/Projects/MBC%20638">Process Improvement</a> </li>
 <li> <a href="https://github.com/yoditayalew/ADS-Portfolio-Milestone/tree/main/Projects/IST%20722">Analyze business processes of Fudgeflix and Fudgemart to capitalize on synergies of the combined company.
-![image](https://user-images.githubusercontent.com/99503597/153733212-42e3457b-191b-482e-8eab-83f4a1227c7d.png)
-</a> </li>
+
