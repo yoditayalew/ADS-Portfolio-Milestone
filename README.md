@@ -1,4 +1,7 @@
-     Applied Data Scince Portifolio Milestone
+     
+<ul>
+Applied Data Scince Portifolio Milestone
+</ul>
 <ul>
 This is a selected collection of Projects and Assignments completed in the ADS program</li>
 </ul>
