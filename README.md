@@ -1,5 +1,5 @@
      
-<u> Applied Data Scince Portifolio Milestone</u>
+<u> Applied Data Science Portifolio Milestone</u>
 <ul>
 These are selected collection of Projects and Assignments completed in the ADS program</li>
 </ul>
