@@ -17,7 +17,7 @@ SUID: 773636611</li>
 </ul>
 
 <li> <a href="https://www.linkedin.com/in/yodit-a-17000a20/?jobid=1234">Professional Resume</a> </li>
-<li> <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fyoditayalew%2FADS-Portfolio-Milestone%2Fmain%2FProgram%2520Overview%2FApplied%2520Data%2520Science%2520Portifolio%2520Draft.docx&wdOrigin=BROWSELINK">Program Overview Document</a> </li>
+<li> <a href="https://github.com/yoditayalew/ADS-Portfolio-Milestone/blob/main/Projects/Applied%20Data%20Science%20Portifolio%20Draft.pdf">Program Overview Document</a> </li>
 <li> <a href="https://github.com/yoditayalew/ADS-Portfolio-Milestone/tree/main/Projects/SCM%20651">SCM 651 Business Analytics: Housing Price Analysis</a> </li>
 <li> <a href="https://github.com/yoditayalew/ADS-Portfolio-Milestone/tree/main/Projects/MBC%20638">MBC 638 Data analysis& Decision Making: Process Improvement</a> </li>
 <li> <a href="https://github.com/yoditayalew/ADS-Portfolio-Milestone/tree/main/Projects/IST%20659%20Data%20Admin%20Concepts%20%26%20Database%20Management">IST 659 Data Admin Concepts & Database Management</a> </li>
