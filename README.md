@@ -21,8 +21,9 @@ SUID: 773636611</li>
 <li> <a href="https://github.com/yoditayalew/ADS-Portfolio-Milestone/blob/main/Projects/Yodit_Ayalew_Overview%20Document.pdf">Program Overview Document</a> </li>
 <li> <a href="https://github.com/yoditayalew/ADS-Portfolio-Milestone/tree/main/Projects/SCM%20651">SCM 651 Business Analytics: Housing Price Analysis</a> </li>
 <li> <a href="https://github.com/yoditayalew/ADS-Portfolio-Milestone/tree/main/Projects/MBC%20638">MBC 638 Data analysis& Decision Making: Process Improvement</a> </li>
-<li> <a href="https://github.com/yoditayalew/ADS-Portfolio-Milestone/tree/main/Projects/IST%20659%20Data%20Admin%20Concepts%20%26%20Database%20Management">IST 659 Data Admin Concepts & Database Management</a> </li>
+<li> <a href="https://github.com/yoditayalew/ADS-Portfolio-Milestone/tree/main/Projects/IST%20659">IST 659 Data Admin Concepts & Database Management</a> </li>
 <li> <a href="https://github.com/yoditayalew/ADS-Portfolio-Milestone/tree/main/Projects/IST%20722">IST 722 Data Warehousing: Analyze business     processes of Fudgeflix and Fudgemart to capitalize on synergies of the combined company.
 <li> <a href="https://github.com/yoditayalew/ADS-Portfolio-Milestone/tree/main/Projects/IST%20718">IST 718 Big Data Analytics: Book Recommendation System</a> </li>
 <li> <a href="https://github.com/yoditayalew/ADS-Portfolio-Milestone/tree/main/Projects/IST%20652">IST 652 Scripting for Data Analysis: Semistructured Data Analysis</a> </li>
 <li> <a href="https://github.com/yoditayalew/ADS-Portfolio-Milestone/tree/main/Projects/IST%20600">IST 600 Managing Data Science Projects Final Paper</a> </li>
+<li> <a href="https://github.com/yoditayalew/ADS-Portfolio-Milestone/tree/main/Projects/IST%20723">IST 723 Information Security Projects Dark Trace</a> </li>
